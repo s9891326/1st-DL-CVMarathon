@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Day029~031/Object Detection 程式導讀/Faster_RCNN_Keras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/darkflow" vcs="Git" />
   </component>
 </project>
