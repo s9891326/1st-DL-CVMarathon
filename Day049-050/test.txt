@@ -1,0 +1,36 @@
+1stDL/Day049-050/test/images/00006.jpg 186,173,366,422,0 86,307,226,385,0
+1stDL/Day049-050/test/images/00042.jpg 246,429,572,769,0
+1stDL/Day049-050/test/images/00053.jpg 277,157,470,438,0 653,157,809,565,0 124,268,274,446,0
+1stDL/Day049-050/test/images/00077.jpg 1,120,224,319,0
+1stDL/Day049-050/test/images/00078.jpg 143,123,959,456,0
+1stDL/Day049-050/test/images/00083.jpg 218,179,959,548,0
+1stDL/Day049-050/test/images/00086.jpg 333,189,927,466,0 41,291,392,489,0
+1stDL/Day049-050/test/images/00087.jpg 110,51,402,349,0
+1stDL/Day049-050/test/images/00099.jpg 286,126,689,546,0 438,438,554,536,0 308,1,796,324,0
+1stDL/Day049-050/test/images/00117.jpg 401,65,621,557,0
+1stDL/Day049-050/test/images/00147.jpg 149,105,818,544,0
+1stDL/Day049-050/test/images/00150.jpg 122,18,343,565,0
+1stDL/Day049-050/test/images/00168.jpg 133,18,314,359,0
+1stDL/Day049-050/test/images/00173.jpg 1,66,296,566,0 150,11,519,530,0 387,339,488,418,0
+1stDL/Day049-050/test/images/00176.jpg 98,63,296,265,0
+1stDL/Day049-050/test/images/00177.jpg 362,12,630,317,0
+1stDL/Day049-050/test/images/raccoon-10.jpg 130,2,446,488,1
+1stDL/Day049-050/test/images/raccoon-126.jpg 5,5,246,192,1
+1stDL/Day049-050/test/images/raccoon-13.jpg 55,28,393,313,1
+1stDL/Day049-050/test/images/raccoon-136.jpg 51,24,198,192,1
+1stDL/Day049-050/test/images/raccoon-138.jpg 56,54,226,150,1
+1stDL/Day049-050/test/images/raccoon-143.jpg 17,29,238,162,1
+1stDL/Day049-050/test/images/raccoon-149.jpg 132,50,305,246,1
+1stDL/Day049-050/test/images/raccoon-176.jpg 308,90,611,426,1 103,1,314,189,1
+1stDL/Day049-050/test/images/raccoon-177.jpg 8,18,157,178,1 146,13,263,146,1
+1stDL/Day049-050/test/images/raccoon-186.jpg 34,40,536,387,1
+1stDL/Day049-050/test/images/raccoon-189.jpg 19,2,508,438,1
+1stDL/Day049-050/test/images/raccoon-195.jpg 25,111,197,225,1
+1stDL/Day049-050/test/images/raccoon-34.jpg 1,2,227,194,1
+1stDL/Day049-050/test/images/raccoon-43.jpg 1,65,239,316,1
+1stDL/Day049-050/test/images/raccoon-55.jpg 6,49,250,320,1 274,27,563,410,1
+1stDL/Day049-050/test/images/raccoon-57.jpg 82,6,638,423,1
+1stDL/Day049-050/test/images/raccoon-71.jpg 129,51,628,373,1
+1stDL/Day049-050/test/images/raccoon-75.jpg 1,1,640,459,1
+1stDL/Day049-050/test/images/raccoon-76.jpg 14,1,212,132,1
+1stDL/Day049-050/test/images/raccoon-95.jpg 50,45,272,289,1
